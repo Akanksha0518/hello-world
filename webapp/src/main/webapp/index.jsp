@@ -5,6 +5,6 @@
     </head>
     <body>
         <p>Hello JI, I LOVE YOU.</p>
-        <img src="/webapp/src/main/webapp/image_50434049.JPG" alt="hi" class="inline">
+        <img src="/webapp/src/main/webapp/img.png.png" alt="hi" class="inline">
     </body>
 </html>
